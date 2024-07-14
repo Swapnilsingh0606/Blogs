@@ -1,0 +1,27 @@
+# Node.js related
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/jspm_packages
+/bower_components
+
+# Optional npm cache directory
+.npm
+
+# Environment files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Editor-specific files
+.vscode
+*.swp
+*.swo
